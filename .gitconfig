@@ -1,0 +1,4 @@
+[include]
+	path = ~/.gitconfig.d/base
+        path = ~/.gitconfig.d/user
+

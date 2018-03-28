@@ -1,0 +1,7 @@
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = emacs -nw
+	autocrlf = input

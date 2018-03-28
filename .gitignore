@@ -1,6 +1,10 @@
 *
+!.gitignore
 !.emacs
 !.emacs.d/
 !.emacs.d/lisp/
 !.emacs.d/lisp/*.el
-!.gitignore
+!.gitconfig
+!.gitconfig.d/
+!.gitconfig.d/base
+!.gitconfig.d/user.template
