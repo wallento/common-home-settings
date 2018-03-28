@@ -1,0 +1,6 @@
+*
+!.emacs
+!.emacs.d/
+!.emacs.d/lisp/
+!.emacs.d/lisp/*.el
+!.gitignore
