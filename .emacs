@@ -16,3 +16,8 @@
   (add-hook 'write-file-functions (lambda()
   (untabify (point-min) (point-max))
   nil))))
+
+(custom-set-variables
+ '(verilog-auto-delete-trailing-whitespace t)
+ '(verilog-auto-newline nil)
+)
