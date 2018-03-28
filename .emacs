@@ -21,3 +21,5 @@
  '(verilog-auto-delete-trailing-whitespace t)
  '(verilog-auto-newline nil)
 )
+
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
